@@ -2390,3 +2390,23 @@ No such host is known.
 TCP connect to perforce:1666 failed.
 No such host is known. 
 
+[2023.02.02-15.14.45:413][  0]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2023.02.02-15.14.45:413][  0]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2023.02.02-15.14.50:803][  0]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2023.02.02-15.14.50:803][  0]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2023.02.02-15.14.56:210][  0]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2023.02.02-15.14.56:210][  0]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
+[2023.02.02-15.15.01:637][  0]LogSourceControl: Error: P4ERROR: Invalid connection to server.
+[2023.02.02-15.15.01:637][  0]LogSourceControl: Error: Connect to server failed; check $P4PORT.
+TCP connect to perforce:1666 failed.
+No such host is known. 
+
