@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Floor1.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/M_Floor_Metallic.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/M_Floor_Lights.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/VRTemplate/Blueprints/VRGameMode.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Crate.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/VRTemplate/Input/Actions/IA_Move.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/M_Floor_Metallic_Shiny.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Door.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Door_Rotator_.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Activateable_Scenery/Door.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Doorway.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Wall_L_Small.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_020.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_033.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/WallCorner.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_019.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/DoorControls.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Activateable_Scenery/BP_Door.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Activateable_Scenery/BP_DoorControl.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Button.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_018.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_027.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Wall_L_1.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_011.uasset",
+				"D:/GameDev/UnrealEngine/ShipsBroken_VR/Content/Assets/Material_010.uasset"
+			]
+		}
+	]
+}
